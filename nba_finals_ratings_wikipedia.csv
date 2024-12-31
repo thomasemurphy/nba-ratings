@@ -1,0 +1,496 @@
+Year,Network,Results,Avg,Game 1,Game 2,Game 3,Game 4,Game 5,Game 6,Game 7
+2024,ABC,"Boston Celtics 4,
+Dallas Mavericks 1","5.8
+(11.31M Viewers)","5.7
+(10.99M Viewers)[10]","6.2
+(12.31M Viewers)[11]","6.0
+(11.43M Viewers)[12]","4.7
+(9.62M Viewers)[13]","6.3
+(12.22M Viewers)[14]",No Game,
+2023,ABC,"Denver Nuggets 4,
+Miami Heat 1","6.1
+(11.64M Viewers)[15]","6.0
+(11.58M Viewers)[16]","6.0
+(11.91M Viewers)[17]","6.0
+(11.24M Viewers)[18]","5.4
+(10.41M Viewers)[19]","7.0
+(13.08M Viewers)[20]",No Game,
+2022,ABC,"Golden State Warriors 4,
+Boston Celtics 2","6.6
+(12.40M Viewers)[21]","6.4
+(11.90M Viewers)[22]","6.2
+(11.91M Viewers)[23]","6.2
+(11.52M Viewers)[24]","6.2
+(12.06M Viewers)[25]","7.0
+(13.03M Viewers)[26]","7.5
+(13.99M Viewers)[21]",No Game
+2021,ABC,"Milwaukee Bucks 4,
+Phoenix Suns 2","5.2
+(9.91M Viewers)[27]","4.5
+(8.56M Viewers)","5.1
+(9.38M Viewers)","4.7
+(9.02M Viewers)","5.3
+(10.25M Viewers)","4.8
+(9.55M Viewers)","6.6
+(12.52M Viewers)",No Game
+2020,ABC,"Los Angeles Lakers 4,
+Miami Heat 2","4.0
+(7.45M Viewers)","4.1
+(7.41M Viewers)[28]","3.6
+(6.61M Viewers)[29]","3.1
+(5.94M Viewers)[29]","4.4
+(7.54M Viewers)[30]","4.8
+(8.89M Viewers)[31]","4.2
+(8.29M Viewers)[32]",No Game
+2019[a],ABC,"Toronto Raptors 4,
+Golden State Warriors 2","8.8
+(15.14M Viewers)","7.9
+(13.51M Viewers)[33]","8.0
+(14.05M Viewers)[34]","7.8
+(13.44M Viewers)[35]","7.6
+(13.16M Viewers)[36]","10.6
+(18.34M Viewers)[37]","10.7
+(18.34M Viewers)[38]",No Game
+2018,ABC,"Golden State Warriors 4,
+Cleveland Cavaliers 0",10.0(17.56M Viewers),"10.0
+(17.67M Viewers)[39]","10.3
+(18.47M Viewers)[39]","10.4
+(17.85M Viewers)[39]","9.3
+(16.24M Viewers)[39]",No Game,,
+2017,ABC,"Golden State Warriors 4,
+Cleveland Cavaliers 1","11.3/22
+(20.38M
+Viewers)","10.5[40]/20
+(18.70M
+Viewers)[41]","10.7[40]/20
+(19.69M
+Viewers)[42]","11.3[43]/21
+(20.05M
+Viewers)[44]","10.7[45]/22
+(19.01M
+Viewers)[46]","13.5[47]/25
+(24.47M
+Viewers)[48]",No Game,
+2016,ABC,"Cleveland Cavaliers 4,
+Golden State Warriors 3","11.4/21
+(20.28M
+Viewers)","11.1[49]/20
+(19.20M
+Viewers)[50]","9.8[51]/17
+(17.49M
+Viewers)[52]","9.7[53]/18
+(16.47M
+Viewers)[54]","9.8[55]/19
+(16.57M
+Viewers)[56]","11.8[57]/21
+(20.53M
+Viewers)[58]","11.8[59]/22
+(20.70M
+Viewers)[60]","15.8[3]/29
+(31.02M
+viewers)[61]"
+2015,ABC,"Golden State Warriors 4,
+Cleveland Cavaliers 2","11.6/21
+(19.94M
+Viewers)","10.6/20
+(17.77M
+Viewers)","10.8/19
+(19.17M
+Viewers)","11.1/20
+(18.77M
+Viewers)","11.7/21
+(19.84M
+Viewers)","11.8/21
+(20.86M
+Viewers)","13.4/24
+(23.25M
+Viewers)",No Game
+2014,ABC,"San Antonio Spurs 4,
+Miami Heat 1","9.3/16
+(15.54M
+Viewers)","9.0/15
+(14.85M
+Viewers)","9.0/15
+(15.13M
+Viewers)","9.0/15
+(14.78M
+Viewers)","9.3/15
+(14.96M
+Viewers)","10.3/18
+(18.00M
+Viewers)",No Game,
+2013,ABC,"Miami Heat 4,
+San Antonio Spurs 3","10.4/17
+(17.47M
+Viewers)","8.8/14
+(14.24M
+Viewers)","8.5/15
+(14.57M
+Viewers)","8.5/14
+(14.05M
+Viewers)","10.0/16
+(16.23M
+Viewers)","9.5/16
+(16.27M
+Viewers)","12.3/21
+(20.64M
+Viewers)","15.3/26
+(26.32M
+Viewers)"
+2012,ABC,"Miami Heat 4,
+Oklahoma City Thunder 1","10.1/17
+(16.88M
+Viewers)","9.9/16
+(16.20M
+Viewers)","10.4/17
+(16.67M
+Viewers)","8.8/16
+(15.55M
+Viewers)","10.5/18
+(17.50M
+Viewers)","10.9/18
+(18.46M
+Viewers)",No Game,
+2011,ABC,"Dallas Mavericks 4,
+Miami Heat 2","10.2/17
+(17.39M
+Viewers)","9.0/15
+(15.17M
+Viewers)","9.3/15
+(15.52M
+Viewers)","9.1/15
+(15.34M
+Viewers)","9.6/16
+(16.13M
+Viewers)","10.8/18
+(18.32M
+Viewers)","13.3/23
+(23.88M
+Viewers)",No Game
+2010,ABC,"Los Angeles Lakers 4,
+Boston Celtics 3","10.6/18
+(18.14M
+Viewers)","8.6/14
+(14.09M
+Viewers)","9.2/15
+(15.72M
+Viewers)","9.6/16
+(15.96M
+Viewers)","9.9/18
+(16.37M
+Viewers)","10.8/18
+(18.65M
+Viewers)","10.4/18
+(17.96M
+Viewers)","15.6/27
+(28.20M
+Viewers)"
+2009,ABC,"Los Angeles Lakers 4,
+Orlando Magic 1","8.4/15
+(14.35M
+Viewers)","7.8/14
+(13.04M
+Viewers)","8.2/14
+(14.06M
+Viewers)","8.6/15
+(14.20M
+Viewers)","9.4/17
+(15.96M
+Viewers)","8.0/14
+(14.17M
+Viewers)",No Game,
+2008,ABC,"Boston Celtics 4,
+Los Angeles Lakers 2","9.3/17
+(14.94M
+Viewers)","8.7/16
+(13.38M
+Viewers)","8.5/15
+(13.50M
+Viewers)","9.2/16
+(14.51M
+Viewers)","8.7/16
+(13.76M
+Viewers)","10.2/19
+(16.88M
+Viewers)","10.7/19
+(17.39M
+Viewers)",No Game
+2007,ABC,"San Antonio Spurs 4,
+Cleveland Cavaliers 0","6.2/11
+(9.29M
+Viewers)","6.3/11
+(9.21M
+Viewers)","5.6/10
+(8.55M
+Viewers)","6.4/11
+(9.49M
+Viewers)","6.5/12
+(9.91M
+Viewers)",No Game,,
+2006,ABC,"Miami Heat 4,
+Dallas Mavericks 2","8.5/15
+(12.97M
+Viewers)","7.8/14
+(11.51M
+Viewers)","8.0/14
+(12.41M
+Viewers)","8.0/14
+(12.25M
+Viewers)","7.8/14
+(11.56M
+Viewers)","9.1/17
+(14.32M
+Viewers)","10.1/18
+(15.71M
+Viewers)",No Game
+2005,ABC,"San Antonio Spurs 4,
+Detroit Pistons 3","8.2/15
+(12.54M
+Viewers)","7.2/13
+(10.57M
+Viewers)","6.9/12
+(10.66M
+Viewers)","7.2/13
+(10.63M
+Viewers)","7.2/13
+(10.92M
+Viewers)","8.4/15
+(13.09M
+Viewers)","8.8/15
+(13.47M
+Viewers)","11.9/22
+(19.00M
+Viewers)"
+2004,ABC,"Detroit Pistons 4,
+Los Angeles Lakers 1","11.5/20
+(17.94M
+Viewers)","9.8/17
+(15.36M
+Viewers)","10.7/19
+(16.13M
+Viewers)","10.5/19
+(16.21M
+Viewers)","12.7/22
+(20.30M
+Viewers)","13.8/23
+(21.84M
+Viewers)",No Game,
+2003,ABC,"San Antonio Spurs 4,
+New Jersey Nets 2","6.5/12
+(9.86M
+Viewers)","6.4/11
+(9.60M
+Viewers)","5.2/10
+(8.06M
+Viewers)","7.0/12
+(10.76M
+Viewers)","6.6/12
+(9.66M
+Viewers)","6.2/12
+(9.31M
+Viewers)","7.5/14
+(11.57M
+Viewers)",No Game
+2002,NBC,"Los Angeles Lakers 4,
+New Jersey Nets 0","10.2/19
+(15.68M
+Viewers)","10.6/20
+(15.85M
+Viewers)","9.1/18
+(14.05M
+Viewers)","10.2/18
+(16.21M
+Viewers)","10.8/19
+(16.56M
+Viewers)",No Game,,
+2001,NBC,"Los Angeles Lakers 4,
+Philadelphia 76ers 1","12.1/23
+(19.00M
+Viewers)","12.4/23
+(18.58M
+Viewers)","11.6/22
+(18.72M
+Viewers)","12.7/23
+(20.28M
+Viewers)","12.6/23
+(19.97M
+Viewers)","11.2/22
+(17.36M
+Viewers)",No Game,
+2000,NBC,"Los Angeles Lakers 4,
+Indiana Pacers 2","11.6/21
+(17.40M
+Viewers)","10.5/18
+(10.56M
+Households)","9.9/20
+(10.02M
+Households)","10.7/19
+(10.84M
+Households)","13.1/24
+(13.17M
+Households)","10.0/20
+(10.04M
+Households)","14.7/26
+(14.85M
+Households)",No Game
+1999,NBC,"San Antonio Spurs 4,
+New York Knicks 1","11.3/21
+(16.01M
+Viewers)","11.5/20
+(16.57M
+Viewers)","9.6/19
+(13.98M
+Viewers)","12.1/21
+(17.01M
+Viewers)","12.0/22
+(16.76M
+Viewers)","11.0/22
+(15.53M
+Viewers)",No Game,
+1998,NBC,"Chicago Bulls 4,
+Utah Jazz 2","18.7/33
+(29.04M
+Viewers)","18.0/32
+(26.70M
+Viewers)","16.6/31
+(26.30M
+Viewers)","16.2/28
+(15.8M
+Households)","19.1/33
+(18.7M
+Households)","19.8/37
+(30.60M
+Viewers)","22.3/38
+(35.89M
+Viewers)",No Game
+1997,NBC,"Chicago Bulls 4,
+Utah Jazz 2","16.8/30
+(25.59M
+Viewers)","15.8/27
+(15.3M
+Households)","15.1/27
+(14.6M
+Households)","14.2/27
+(13.7M
+Households)","16.9/30
+(16.4M
+Households)","20.1/35
+(19.5M
+Households)","18.5/35
+(17.9M
+Households)",No Game
+1996,NBC,"Chicago Bulls 4,
+Seattle SuperSonics 2","16.7/31
+(24.86M
+Viewers)","16.8/31
+(16.1M
+Households)","13.9/27
+(13.3M
+Households)","15.8/28
+(15.2M
+Households)","18.1/33
+(17.4M
+Households)","17.2/33
+(16.5M
+Households)","18.8/35
+(18.0M
+Households)",No Game
+1995,NBC,"Houston Rockets 4,
+Orlando Magic 0","13.9/25
+(20.10M
+Viewers)","14.7/26
+(14.0M
+Households)","12.0/23
+(11.4M
+Households)","14.1/25
+(13.4M
+Households)","14.9/26
+(14.2M
+Households)",No Game,,
+1994,NBC,"Houston Rockets 4,
+New York Knicks 3","12.3/23
+(17.25M
+Viewers)","12.6/23
+(11.9M
+Households)","10.7/21
+(10.1M
+Households)","12.4/24
+(11.7M
+Households)","12.9/23
+(12.1M
+Households)","7.8/14
+(coverage affected by O.J. Simpson's Bronco Chase)","11.3/24
+(10.6M
+Households)","17.9/31
+(16.9M
+Households)"
+1993,NBC,"Chicago Bulls 4,
+Phoenix Suns 2","17.9/33
+(27.21M
+Viewers)","16.8/29
+(15.6M
+Households)","14.6/29
+(13.6M
+Households)","17.0/32
+(15.8M
+Households)","19.8/35
+(18.4M
+Households)","19.0/36
+(17.7M
+Households)","20.3/39
+(32.10M
+Viewers)",No Game
+1992,NBC,"Chicago Bulls 4,
+Portland Trail Blazers 2","14.2/27
+(20.84M
+Viewers)","13.5/25
+(12.4M
+Households)","13.7/26
+(12.6M
+Households)","13.6/26
+(12.5M
+Households)","16.0/29
+(14.7M
+Households)","13.9/28
+(12.8M
+Households)","14.7/29
+(13.5M
+Households)",No Game
+1991,NBC,"Chicago Bulls 4,
+Los Angeles Lakers 1","15.8/34
+(23.91M
+Viewers)",12.6,"16.1/29
+(15.0M
+Households)","15.7/31
+(14.6M
+Households)","15.2/30
+(14.2M
+Households)","19.7/36
+(18.3M
+Households)",No Game,
+1990,CBS,"Detroit Pistons 4,
+Portland Trail Blazers 1","12.3/25
+(17.19M
+Viewers)",11.8,12.2,10.8,13.4,13.2,No Game,
+1989,CBS,"Detroit Pistons 4,
+Los Angeles Lakers 0","15.1/30
+(21.26M
+Viewers)",14,15.6,13.2,17.4,No Game,,
+1988,CBS,"Los Angeles Lakers 4,
+Detroit Pistons 3","15.4/31
+(21.70M
+Viewers)",13.9,14.8,12,14.8,16.1,14.4,21.2/37
+1987,CBS,"Los Angeles Lakers 4,
+Boston Celtics 2","15.9/32
+(24.12M
+Viewers)",13.8,14.6,11.9,18.9,18.9,17.3,No Game
+1986,CBS,"Boston Celtics 4,
+Houston Rockets 2","14.1/31
+(14.43M
+Households)",9.9,14.8,13.4,15.4,16.9,14.2,No Game
+1985,CBS,"Los Angeles Lakers 4,
+Boston Celtics 2",13.5/30,---,14.3,---,17,15.3,15.3,No Game
+1984,CBS,"Boston Celtics 4,
+Los Angeles Lakers 3",12.1/26,---,12.3,---,13.1,12.1,---,19.3
+1983,CBS,"Philadelphia 76ers 4,
+Los Angeles Lakers 0",12.3/26,---,12.9/23,---,---,No Game,,
